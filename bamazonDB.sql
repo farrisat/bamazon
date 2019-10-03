@@ -30,7 +30,7 @@ VALUES ("chair", "furniture", 56.00, 83),
 ("phonebook", "furniture", .03, 1111), 
 ("your seasonal hipster basil plant to kill off", "outdoor", 56.00, 83);
 
-SELECT * FROM products;
+
 
 
 
