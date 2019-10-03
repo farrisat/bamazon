@@ -2,13 +2,16 @@
 
 ### Purpose
 #Bamazon is an app will take in orders from customers and deplete stock from the store's inventory.
-<!-- Give a high-level overview of how the app is organized -->
+
 ### Organization
 Linear-flow program that has nested then clauses to handle user input. 
+
 ### Overview
 1. Ensure that the npm packages "inquirer" and "mysql" are installed. 
 2. Initialize the app in Bash by the command "node bamazonCustomer.js"
-
+    ![Image of Node input]
+    (⁨bootcamp⁩/Week7⁩/Homework⁩/bamazon⁩/images⁩/1.png)
+ 
     The app will automatically list all items available to "purchase" and their associated department, price, and available quantity. 
 
 3. The initial menu will prompt, "Do you want to buy an item?" 
@@ -31,19 +34,14 @@ Linear-flow program that has nested then clauses to handle user input.
 
     b) If the quantity requested is available,  the app will congratulate you on your choices. It will give the total cost of the purchase, and then republish the initial menu.
 
-
-
-<!-- Give start-to-finish instructions on how to run the app
-<!-- Include screenshots, gifs or videos of the app functioning -->
-
 Link to the github repository
 https://github.com/farrisat/bamazon.git
 
-<!-- <!-- Clearly list the technologies used in the app -->
+
 ### Technologies Used
 The npm packages used in this app were:
     - MySql
     - Inquirer
 
-<!-- State your role in the app development -->  
+
 Implemented code per the instructions.
